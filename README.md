@@ -75,7 +75,15 @@ Ex) Number : 123, String : abc
 https://github.com/wonbaepark-bot/AutomationAnywhere
 ~~~
 - FTP/SFTP
-- Task Bot
+- Task Bot (stop, pause, run) (input output선택으로 글로벌 변수를 설정할 수 있음)
+~~~
+https://www.youtube.com/watch?v=9KQnGRWd4Bg&list=PLzTsXOWovOskEX3RWLN5KjoGE9fKw61iS&index=13
+~~~
+- CSV/TXT (파일을 열고 데이터를 읽어 처리할 때 사용)
+- IF
+- Prompt
+- Wait
+
 
 
 
