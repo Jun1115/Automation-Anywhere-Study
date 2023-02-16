@@ -18,3 +18,35 @@ https://www.youtube.com/watch?v=OfzPq0eEhMg&list=PLzTsXOWovOskEX3RWLN5KjoGE9fKw6
  2. 업무 생산성 향상
  3. 업무 정확도 향상
  4. 가치 있는 업무에 집중
+
+### AA 공식 매뉴얼
+- PDF로 배포하지 않는 이유 : 빠르게 업데이트 되기 때문
+~~~
+https://docs.automationanywhere.com/ko-KR/
+~~~
+
+### 질문하고 싶다면?
+- 제일 좋은 방법은 담당자를 찾는 것
+~~~
+https://apeople.automationanywhere.com/s/?language=en_US
+~~~
+
+### AA 기본 명령어
+- comment (UiPath의 Log와 같은 기능)
+- excel basic (엑셀 안열고 조작)
+- excel advanced (엑셀 열고 조작)
+- step (UiPath의 Sequence와 같은 기능)
+- Tesk Bot (UiPath의 Inboke workflow랑 같은 기능)
+- Wait (특정 조건까지 기다리게 하는 명령어)
+
+### 시스템 변수
+- 시스템의 정보를 파악하기 위한 변수
+
+
+### 사용자 변수
+- 사용자가 필요에 의해서 만들어서 사용하는 변수
+
+
+
+
+
