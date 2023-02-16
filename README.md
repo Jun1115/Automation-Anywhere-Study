@@ -47,6 +47,6 @@ https://apeople.automationanywhere.com/s/?language=en_US
 - 사용자가 필요에 의해서 만들어서 사용하는 변수
 
 
-<img src="https://user-images.githubusercontent.com/114639257/219285145-79e6509f-4be2-452e-bd24-00d6cc17998e.png width="100">
+<img src="https://user-images.githubusercontent.com/114639257/219285145-79e6509f-4be2-452e-bd24-00d6cc17998e.png" width="100">
 
 
