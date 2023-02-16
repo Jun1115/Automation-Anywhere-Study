@@ -41,12 +41,43 @@ https://apeople.automationanywhere.com/s/?language=en_US
 
 ### 시스템 변수
 - 시스템의 정보를 파악하기 위한 변수
-
+<img src="https://user-images.githubusercontent.com/114639257/219285145-79e6509f-4be2-452e-bd24-00d6cc17998e.png" width="400">
 
 ### 사용자 변수
 - 사용자가 필요에 의해서 만들어서 사용하는 변수
+- 상황에 따라서 어떤 변수를 만들지 정의해야 함
+~~~
+Ex) Number : 123, String : abc
+~~~
+
+### A2019 자주 사용하는 명령어
+- Universal Recoder (uipath랑 같은 기능)
+- Recoder (action 중 하나로 Select, set text(type into),append text(이어 쓰기), click(백그라운드) 등 선택한 객체에 따라 나오는 기능중 하나 선택 가능)(현재 화면에 보이지 않더라도 한 번 로딩이 끝나면 알아서 이미지를 찾을 수 있음)
+- Simulate Keystroke (type into, 특수키도 사용 가능)
+- Step
+-  Comments
+- application
+- browser
+- message box
+- delay 
+- image Recognition (현재 화면에 보여야만 이미지를 찾을 수 있음)
+- Clipboard
+- File
+- Folder
+- Log to File
+- Mouse (click은 좌표를 기반, 객체가 없거나 이미지가 안 잡히는 등 기술적인 어려움이 있을 경우 사용)
+- PDF (이미지ㆍ텍스트 추출, 복호화, 암호화 등, 이미지 형태로 된 pdf의 텍스트는 추출할 수 없음 이럴 경우 OCR 사용)
+- Screen (화면캡처)
+- Window
+- Loop (for문 While문)
+- OCR (기본 엔진은 abbyy finereader 12, ocr 라이센스 무상 제공, 한국어 쓸려면 abbyy parameter 다운받아야 함)
+~~~
+https://github.com/wonbaepark-bot/AutomationAnywhere
+~~~
+- FTP/SFTP
+- Task Bot
 
 
-<img src="https://user-images.githubusercontent.com/114639257/219285145-79e6509f-4be2-452e-bd24-00d6cc17998e.png" width="400">
+
 
 
