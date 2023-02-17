@@ -130,7 +130,7 @@ https://www.oanda.com/currency-converter
 <img src="https://user-images.githubusercontent.com/114639257/219578010-2a8fd1a1-fb0e-49d1-b71d-3bf1503d6561.png" width="600">
 
 ~~~
-https://www.oanda.com/currency-converter
+https://www.law.go.kr/
 ~~~
 
 #### 사용 Command
