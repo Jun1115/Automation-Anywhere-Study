@@ -98,7 +98,7 @@ A2019 Email 기본 사용 순서
 
 ## 실습
 ### 엑셀을 활용한 환율 조회 자동화
-<img src="https://user-images.githubusercontent.com/114639257/219551080-4c8e7999-3cf6-4a59-a365-7d27a6f4deb2.png" width="400">
+<img src="https://user-images.githubusercontent.com/114639257/219551080-4c8e7999-3cf6-4a59-a365-7d27a6f4deb2.png" width="600">
 #### 사용 Command
 - Step
 - Browser
