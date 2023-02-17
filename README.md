@@ -118,7 +118,7 @@ https://www.oanda.com/currency-converter
 - Delay 말고 wait을 쓰면 지정 시간 기다리지 않고 환율이 뜰 때까지만 기다렸다가 뜨면 저장하고 넘어갈 수 있게 만들 수 있을 것 같은데 방법을 한번 찾아봐야 할듯
 - 엑셀에서 영어 불러올때 한글 키로 활성화 돼있으면 영어가 안쳐지고 한글이 쳐짐 ex) USD → ㅕㄴㅇ
 
-#### 결과
+### 결과
 
 <img src="https://user-images.githubusercontent.com/114639257/219575821-3d4fe4bd-b212-441d-899d-0d1e4eacf221.png" width="600">
 
