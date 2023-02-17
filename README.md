@@ -127,7 +127,7 @@ https://www.oanda.com/currency-converter
 <img src="https://user-images.githubusercontent.com/114639257/219575821-3d4fe4bd-b212-441d-899d-0d1e4eacf221.png" width="400">
 
 ### 2. 법령 개정 확인 자동화
-<img src="https://user-images.githubusercontent.com/114639257/219551080-4c8e7999-3cf6-4a59-a365-7d27a6f4deb2.png" width="600">
+<img src="https://user-images.githubusercontent.com/114639257/219578010-2a8fd1a1-fb0e-49d1-b71d-3bf1503d6561.png" width="600">
 
 ~~~
 https://www.oanda.com/currency-converter
