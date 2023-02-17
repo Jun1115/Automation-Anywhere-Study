@@ -97,7 +97,7 @@ A2019 Email 기본 사용 순서
 
 
 ## 실습
-### 엑셀을 활용한 환율 조회 자동화
+### 1. 엑셀을 활용한 환율 조회 자동화
 <img src="https://user-images.githubusercontent.com/114639257/219551080-4c8e7999-3cf6-4a59-a365-7d27a6f4deb2.png" width="600">
 
 ~~~
@@ -126,7 +126,22 @@ https://www.oanda.com/currency-converter
 
 <img src="https://user-images.githubusercontent.com/114639257/219575821-3d4fe4bd-b212-441d-899d-0d1e4eacf221.png" width="400">
 
+### 2. 법령 개정 확인 자동화
+<img src="https://user-images.githubusercontent.com/114639257/219551080-4c8e7999-3cf6-4a59-a365-7d27a6f4deb2.png" width="600">
 
+~~~
+https://www.oanda.com/currency-converter
+~~~
+
+#### 사용 Command
+- Step
+- Browser
+- If
+- Excel
+- Record
+- Loop
+- Number
+- String
 
 
 
