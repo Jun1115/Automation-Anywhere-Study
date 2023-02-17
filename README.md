@@ -92,6 +92,32 @@ A2019 Email 기본 사용 순서
 2. Email 명령 사용 : 원하는 Action 사용
 3. Disconnect : 사용되었던 Email Session 종료
 ~~~
+- SAP (몇가지 command 제외하고 field path 가 필요함)
+- Error Handling (uipath Try catch랑 같은 기능)
+
+
+## 실습
+### 엑셀을 활용한 환율 조회 자동화
+#### 사용 Command
+- Step
+- Browser
+- Simulate Keystrokes
+- Excel
+- Record
+- Delay
+- Email
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
