@@ -55,7 +55,7 @@ Ex) Number : 123, String : abc
 - Recoder (action 중 하나로 Select, set text(type into),append text(이어 쓰기), click(백그라운드) 등 선택한 객체에 따라 나오는 기능중 하나 선택 가능)(현재 화면에 보이지 않더라도 한 번 로딩이 끝나면 알아서 이미지를 찾을 수 있음)
 - Simulate Keystroke (type into, 특수키도 사용 가능)
 - Step
--  Comments
+- Comments
 - application
 - browser
 - message box
@@ -76,14 +76,22 @@ https://github.com/wonbaepark-bot/AutomationAnywhere
 ~~~
 - FTP/SFTP
 - Task Bot (stop, pause, run) (input output선택으로 글로벌 변수를 설정할 수 있음)
-~~~
-https://www.youtube.com/watch?v=9KQnGRWd4Bg&list=PLzTsXOWovOskEX3RWLN5KjoGE9fKw61iS&index=13
-~~~
 - CSV/TXT (파일을 열고 데이터를 읽어 처리할 때 사용)
-- IF
+- IF (uipath 랑 똑같은 듯)
 - Prompt
-- Wait
-
+- Wait (delay는 지정한 시간이 지나야 다음 단계가 실행되는 것, wait command는 프로세스가 완료되면 시간이 남았더라도 그냥 넘어감)
+- Excel 자동화
+- Excel Basic
+- Excel Advanced
+- String (assign, extract text, length, replace, trim, find)
+- Number
+- Email (send 말고는 roop command 사용 필수 - deletem, forward, reply, save attachments)
+~~~
+A2019 Email 기본 사용 순서
+1. Connet : Email 서버와 연결 설정
+2. Email 명령 사용 : 원하는 Action 사용
+3. Disconnect : 사용되었던 Email Session 종료
+~~~
 
 
 
