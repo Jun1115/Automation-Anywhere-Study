@@ -141,6 +141,8 @@ https://www.law.go.kr/
 
 ### 결과
 
+[엑셀파일](https://github.com/Jun1115/Automation-Anywhere-Study/blob/c1f7d02d8ec8dc4ae8ecb7488f693532b05a13d6/%ED%99%98%EC%9C%A8%EC%A1%B0%ED%9A%8C.xlsx)
+
 <img src="https://user-images.githubusercontent.com/114639257/219945650-da26492b-c49c-48f0-a605-92c9957abaa1.png" width="400">
 
 <img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="600">
