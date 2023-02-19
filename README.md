@@ -113,13 +113,6 @@ https://www.oanda.com/currency-converter
 - Delay
 - Email
 
-실습하면서 궁금한 점
-- Excel 고급 중에서 go to cell 의 옵션 중 [특정 셀] 은 A5 또는 B2:B10 처럼 특정 위치를 지정해줘야 하는데, loop를 돌릴 때 만약에 컬럼의 위치가 바뀌거나 하는 등의 변화가 생긴다면 일일이 엑셀을 확인해서 셀의 위치를 지정해주어야 하는 것인지
-- Delay 말고 wait을 쓰면 지정 시간 기다리지 않고 환율이 뜰 때까지만 기다렸다가 뜨면 저장하고 넘어갈 수 있게 만들 수 있을 것 같은데 방법을 한번 찾아봐야 할듯
-- 엑셀에서 영어 불러올때 한글 키로 활성화 돼있으면 영어가 안쳐지고 한글이 쳐짐 ex) USD → ㅕㄴㅇ
-- recoder:capture 쓸 때 브라우저를 지정해주면 윈도우 타입의 변수가 자동 생성됨
-- 변수 쓸 때 무조건 선택지에서 찾아야 하는건가 ? vscode 나 uipath 는 ctrl + space 누르면 쉽게 쓸 수 있는데
-
 ### 결과
 
 [엑셀파일](https://github.com/Jun1115/Automation-Anywhere-Study/blob/7c4c80df5bb5e23f8c71123341be7257ba2b980d/%ED%99%98%EC%9C%A8%EC%A1%B0%ED%9A%8C.xlsx)
@@ -153,7 +146,12 @@ https://www.law.go.kr/
 <img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="600">
 
 
-
+실습하면서 궁금한 점
+- Excel 고급 중에서 go to cell 의 옵션 중 [특정 셀] 은 A5 또는 B2:B10 처럼 특정 위치를 지정해줘야 하는데, loop를 돌릴 때 만약에 컬럼의 위치가 바뀌거나 하는 등의 변화가 생긴다면 일일이 엑셀을 확인해서 셀의 위치를 지정해주어야 하는 것인지.
+- Delay 말고 wait을 쓰면 지정 시간 기다리지 않고 환율이 뜰 때까지만 기다렸다가 뜨면 저장하고 넘어갈 수 있게 만들 수 있을 것 같은데 방법을 한번 찾아봐야 할듯.
+- 엑셀에서 영어로 된 문자열 불러올때 한글 키 활성화 돼있으면 영어가 안쳐지고 한글이 쳐짐. ex) USD → ㅕㄴㅇ
+- recoder:capture 쓸 때 브라우저를 지정해주면 윈도우 타입의 변수가 자동 생성됨.
+- 변수 쓸 때 무조건 선택지에서 찾아야 하는건지, vscode 나 uipath 는 ctrl + space 누르면 쉽게 쓸 수 있다.
 
 
 
