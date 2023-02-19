@@ -122,7 +122,7 @@ https://www.oanda.com/currency-converter
 
 ### 결과
 
-[엑셀파일]
+[엑셀파일](https://github.com/Jun1115/Automation-Anywhere-Study/blob/7c4c80df5bb5e23f8c71123341be7257ba2b980d/%ED%99%98%EC%9C%A8%EC%A1%B0%ED%9A%8C.xlsx)
 
 <img src="https://user-images.githubusercontent.com/114639257/219576673-72c2ee55-0215-41a4-9c72-20c30ede2e22.png" width="400">
 
