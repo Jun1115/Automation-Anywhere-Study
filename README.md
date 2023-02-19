@@ -126,7 +126,7 @@ https://www.oanda.com/currency-converter
 
 <img src="https://user-images.githubusercontent.com/114639257/219576673-72c2ee55-0215-41a4-9c72-20c30ede2e22.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/114639257/219575821-3d4fe4bd-b212-441d-899d-0d1e4eacf221.png" width="400">
+<img src="https://user-images.githubusercontent.com/114639257/219575821-3d4fe4bd-b212-441d-899d-0d1e4eacf221.png" width="600">
 
 ### 2. 법령 개정 확인 자동화
 <img src="https://user-images.githubusercontent.com/114639257/219578010-2a8fd1a1-fb0e-49d1-b71d-3bf1503d6561.png" width="600">
@@ -150,7 +150,7 @@ https://www.law.go.kr/
 
 <img src="https://user-images.githubusercontent.com/114639257/219945650-da26492b-c49c-48f0-a605-92c9957abaa1.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="400">
+<img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="600">
 
 
 
