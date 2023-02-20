@@ -147,6 +147,14 @@ https://www.law.go.kr/
 
 <img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="600">
 
+### 3. OCR을 활용한 SAP 자동화
+
+#### 사용 Command
+- OCR
+- SAP
+- Record
+- Email
+- String
 
 실습하면서 궁금한 점
 - Excel 고급 중에서 go to cell 의 옵션 중 [특정 셀] 은 A5 또는 B2:B10 처럼 특정 위치를 지정해줘야 하는데, loop를 돌릴 때 만약에 컬럼의 위치가 바뀌거나 하는 등의 변화가 생긴다면 일일이 엑셀을 확인해서 셀의 위치를 지정해주어야 하는 것인지.
@@ -156,6 +164,6 @@ https://www.law.go.kr/
 - 변수 쓸 때 무조건 선택지에서 찾아야 하는건지, vscode 나 uipath 는 ctrl + space 누르면 쉽게 쓸 수 있다.
 
 
-
+ 
 
 
