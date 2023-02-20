@@ -156,6 +156,5 @@ https://www.law.go.kr/
 
 
  
-## Automation Anywhere University 
-- Hello Automation 360 Bot: Getting Started with Building Bots
+
 
