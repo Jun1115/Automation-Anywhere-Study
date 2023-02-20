@@ -147,17 +147,6 @@ https://www.law.go.kr/
 
 <img src="https://user-images.githubusercontent.com/114639257/219945648-a9875f63-92b9-429c-b853-23255d226ef9.png" width="600">
 
-### 3. OCR을 활용한 SAP 자동화
-
-<img src="https://user-images.githubusercontent.com/114639257/219984682-2a1e12c8-dbea-41c7-afb5-9c2febc24d81.png" width="600">
-
-#### 사용 Command
-- OCR
-- SAP
-- Record
-- Email
-- String
-
 실습하면서 궁금한 점
 - Excel 고급 중에서 go to cell 의 옵션 중 [특정 셀] 은 A5 또는 B2:B10 처럼 특정 위치를 지정해줘야 하는데, loop를 돌릴 때 만약에 컬럼의 위치가 바뀌거나 하는 등의 변화가 생긴다면 일일이 엑셀을 확인해서 셀의 위치를 지정해주어야 하는 것인지.
 - Delay 말고 wait을 쓰면 지정 시간 기다리지 않고 환율이 뜰 때까지만 기다렸다가 뜨면 저장하고 넘어갈 수 있게 만들 수 있을 것 같은데 방법을 한번 찾아봐야 할듯.
@@ -167,5 +156,6 @@ https://www.law.go.kr/
 
 
  
-
+## Automation Anywhere University 
+- Hello Automation 360 Bot: Getting Started with Building Bots
 
