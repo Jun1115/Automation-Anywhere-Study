@@ -149,6 +149,8 @@ https://www.law.go.kr/
 
 ### 3. OCR을 활용한 SAP 자동화
 
+<img src="https://user-images.githubusercontent.com/114639257/219984682-2a1e12c8-dbea-41c7-afb5-9c2febc24d81.png" width="600">
+
 #### 사용 Command
 - OCR
 - SAP
