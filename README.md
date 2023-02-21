@@ -169,7 +169,7 @@ https://www.law.go.kr/
 
 ### AS-IS
 
-<img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
+<img src="https://user-images.githubusercontent.com/114639257/220244728-53c62073-b3b5-4b6e-a41d-eccb1706aba6.png" width="600">
 
 ~~~
 [한국무역협회](https://www.kita.net/)
