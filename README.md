@@ -158,9 +158,22 @@ https://www.law.go.kr/
 
 # 개인 실습
 - RPA 데이터 분석 부트캠프에서 Uipath를 배울 때 했던 개인 프로젝트를 AA 로 만들어보기 
+- URL 등 고정된 문자열 등은 변수처리
+
 
 ## Project D (나라 별 실시간 환율 조사)
+ 
+- 현재 날짜 및 시간 = Datetime:To string 커맨드에서 System:Date 변수 사용하여 커스텀 포맷에 yyyy-MM-dd 등과 같이 입력
 
 ### AS-IS
 
 <img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
+
+~~~
+[한국무역협회](https://www.kita.net/)
+~~~
+
+#### 사용 Command
+- Step
+- Browser
+
