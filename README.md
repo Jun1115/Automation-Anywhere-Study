@@ -165,13 +165,13 @@ https://www.law.go.kr/
  
 - 현재 날짜 및 시간 = Datetime:To string 커맨드에서 System:Date 변수 사용하여 커스텀 포맷에 yyyy-MM-dd 등과 같이 입력
 - 어제 날짜 및 시간
-<img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
+<img src="https://user-images.githubusercontent.com/114639257/220244728-53c62073-b3b5-4b6e-a41d-eccb1706aba6.png" width="600">
 
 ### AS-IS
 
-<img src="https://user-images.githubusercontent.com/114639257/220244728-53c62073-b3b5-4b6e-a41d-eccb1706aba6.png" width="600">
-
+<img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
 ~~~
+
 [한국무역협회](https://www.kita.net/)
 ~~~
 
