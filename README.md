@@ -167,6 +167,8 @@ https://www.law.go.kr/
 - 어제 날짜 및 시간
 <img src="https://user-images.githubusercontent.com/114639257/220244728-53c62073-b3b5-4b6e-a41d-eccb1706aba6.png" width="600">
 
+- Recorder:capture 커맨드 써서 데이터프레임 긁어올 때 스크롤이 내려감 페이지를 옮겨야 하는데 클릭으로 옮기려니까 자꾸 스크롤 와리가리 쳐서 다른 버튼 눌리길래 그냥 close 하고 다시 open함
+
 ### AS-IS
 
 <img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
