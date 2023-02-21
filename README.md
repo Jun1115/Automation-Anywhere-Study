@@ -161,4 +161,6 @@ https://www.law.go.kr/
 
 ## Project D (나라 별 실시간 환율 조사)
 
+### AS-IS
 
+<img src="https://user-images.githubusercontent.com/114639257/220228292-74341fb6-6cbf-4c13-85a1-375a7406ce67.png" width="600">
