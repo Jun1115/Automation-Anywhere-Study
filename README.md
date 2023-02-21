@@ -155,6 +155,10 @@ https://www.law.go.kr/
 - 변수 쓸 때 무조건 선택지에서 찾아야 하는건지, vscode 나 uipath 는 ctrl + space 누르면 쉽게 쓸 수 있다.
 
 
- 
+
+# 개인 실습
+- RPA 데이터 분석 부트캠프에서 Uipath를 배울 때 했던 개인 프로젝트를 AA 로 만들어보기 
+
+## Project D (나라 별 실시간 환율 조사)
 
 
