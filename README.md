@@ -168,9 +168,8 @@ https://www.law.go.kr/
 <img src="https://user-images.githubusercontent.com/114639257/220244728-53c62073-b3b5-4b6e-a41d-eccb1706aba6.png" width="600">
 
 - Recorder:capture 커맨드 써서 데이터프레임 긁어올 때 스크롤이 내려감 페이지를 옮겨야 하는데 클릭으로 옮기려니까 자꾸 스크롤 와리가리 쳐서 다른 버튼 눌리길래 그냥 close 하고 다시 open함
-- loop 커맨드 사용해서 기존에 있던 엑셀 워크시트 값은 그대로 두고 문자열을 추가로 덫붙이고 싶었는데 다음과 같이 사용하면 됨! 
-  Ex) 기존 워크시트 = 핀란드, 변경 후 = 핀란드(유럽) 
-<img src="https://user-images.githubusercontent.com/114639257/220280303-cef5bb70-18e0-48d0-b955-6e076a296305.png" width="600">
+- 2중 loop 커맨드를 사용할 때 number increment 사용할거면 초기화 잊지 말 것
+- if 커맨드 condition 사용할 때 Source value와 Target value의 정의를 정확하게 알 것
 
 ### AS-IS
 
