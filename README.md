@@ -206,10 +206,16 @@ https://www.law.go.kr/
 
 Project A (공공데이터 )
 
-### task가 계속해서 돌아가고 있는 형상이 발생하여 디바이스 해제, 봇 해제 등에 대하여 에러가 발생
+## task가 계속해서 돌아가고 있는 형상이 발생하여 디바이스 해제, 봇 해제 등에 대하여 에러가 발생
 "Cannot delete device as it is part of active bot deployment"
 → 
 
 ~~~
 https://www.youtube.com/watch?v=54AXeInnY-c
 ~~~
+
+## 2023-04-20
+특정 사이트 로그인 창에서 recorder capture 액션을 사용해 set text 를 할 때 한 글자마다의 시간을 설정해주지 않으면 다양한 에러가 발생할 수도 있음
+ex) dnbhoovers.com
+
+
